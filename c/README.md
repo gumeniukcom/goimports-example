@@ -1,0 +1,1 @@
+Package with exported variable without inited value in declaration, but inited on `init()` and printed value.
